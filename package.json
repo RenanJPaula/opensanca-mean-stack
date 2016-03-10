@@ -1,0 +1,29 @@
+{
+  "name": "opensanca-mean-stack",
+  "version": "1.0.0",
+  "description": "Projeto criado para a demonstração da MEAN Stack duranto o workshop do dia 10 de Março de 2016 pelo Opensanca.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanJPaula/opensanca-mean-stack.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "opensanca"
+  ],
+  "author": "Renan Johannsen de Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanJPaula/opensanca-mean-stack/issues"
+  },
+  "homepage": "https://github.com/RenanJPaula/opensanca-mean-stack#readme",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.6"
+  }
+}
