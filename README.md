@@ -4,6 +4,15 @@ Projeto criado para a demonstração da MEAN Stack durante o workshop do dia 10 
 
 O objetivo deste workshop é expor as principais ferramentas que envolvem o desenvolvimento de aplicações robustas, flexíveis e escaláveis utilizando apenas JavaScript.
 
+## Contato dos palestrantes:
+
+- Renan Johannsen de Paula:
+  -- [Facebook](https://www.facebook.com/RenanJPaula);
+  -- [Linkedin](https://br.linkedin.com/in/renanjpaula);
+  -- [Github](https://github.com/RenanJPaula/);
+  -- [Youtube](https://www.youtube.com/channel/UCw81rZlOnkPt_aEmjwTfERQ);
+  -- E-mail Pessoal: renanjohannsen@gmail.com;
+  -- E-mail Corporativo: renanjpaula@brainmachine.io;
 
 ## Materiais
 
