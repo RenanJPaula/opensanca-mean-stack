@@ -1,0 +1,1 @@
+# opensanca-mean-stack
