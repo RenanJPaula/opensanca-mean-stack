@@ -4,6 +4,8 @@
   "description": "Projeto criado para a demonstração da MEAN Stack duranto o workshop do dia 10 de Março de 2016 pelo Opensanca.",
   "main": "app.js",
   "scripts": {
+    "prestart": "npm install",
+    "start": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
